@@ -1,0 +1,21 @@
+#hero header, #hero p
+{
+	text-shadow: 1px 1px 10px #000;
+}
+#hero .pheno_big_button, .pheno_big_button
+{
+	padding: 20px 24px;
+	color: #FFB7B5;
+	background-color: rgb(102, 8, 8);
+	background-color: rgba(102, 8, 8, 0.35);
+	border-color: #FFF;
+	box-shadow: 0 0 20px #FFB7B5;
+	text-shadow: 0 0 20px #fff;
+}
+#hero .pheno_big_button:hover, .pheno_big_button:hover
+{
+	color: #FFF;
+	background-color: transparent;
+	background-color: rgba(102, 8, 8, 0);
+	border-color: #FFF;
+}
